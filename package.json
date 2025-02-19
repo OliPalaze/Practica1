@@ -1,0 +1,15 @@
+{
+  "name": "batch-processor",
+  "version": "1.0.0",
+  "description": "Batch Processing Web Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
